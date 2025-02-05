@@ -1,0 +1,4 @@
+Bu kısımda kaynak kodları bulunmaktadır. 
+Uygulamayı direkt kullanmak isterseniz UdeSpeeder.crx dosyasını indirip tarayıcınızın eklentiler bölümüne taşıyabilirsiniz. 
+Kurulum ve kullanım videosu:
+https://youtu.be/uW3hIyDeTp8
